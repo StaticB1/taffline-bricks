@@ -1,0 +1,16 @@
+# Temporary files
+.tmp.driveupload/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor directories
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*.tmp
+*~
